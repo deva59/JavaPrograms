@@ -1,0 +1,22 @@
+Java Notes: By Kiran Acadamy;
+
+1)Java Features:
+  i]Platform Independent:- 
+         a} Every Java program runs on operting system.
+         b} we dont need to ask customer if which operating system our using.
+  ii]Open Source:
+         a}It is Freely available.
+         b}Any one can added/modify/changes source code.
+         c}Due to that many features are added in java language.
+
+2)Flow of Program:  
+   i]Source Code:
+          a}Source code create byte code and getting a run and then machine level code.
+   ii]who convert source code to byte code:
+          b}In this java language source code get convert to byte code by using a compiler and then lastly output consist by using interpreter.
+          i}Compiler name is javac
+          ii}Interpreter name is java.
+
+Note: Byte code and Java Setup are both platform independent.
+      compiler and interpreter are both platform dependent.
+
